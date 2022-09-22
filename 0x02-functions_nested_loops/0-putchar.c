@@ -1,4 +1,4 @@
-#include (betty.h)
+#include (main.h)
 
 /*
  *
